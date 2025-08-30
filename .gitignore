@@ -1,0 +1,14 @@
+# macOS noise
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Temporary extracted DOCX content
+tmp_docx/
+
+# Misc
+.env
+

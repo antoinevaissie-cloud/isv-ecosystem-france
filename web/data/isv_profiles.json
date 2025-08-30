@@ -1,0 +1,288 @@
+{
+  "profiles": [
+    {
+      "name": "Aiven",
+      "answers": [
+        {
+          "question": "Partner types",
+          "answer": "cloud platform partners, technology partners, resource (services) partners"
+        },
+        {
+          "question": "Top GSIs/SIs in France",
+          "answer": "HCLTech"
+        },
+        {
+          "question": "France-specific notes",
+          "answer": "In France, Aiven’s presence is still growing; it works with local cloud providers like OVHcloud (an OEM partner) to deliver managed open-source databases in compliance with local regulations[5]. French customers also benefit from Aiven’s European support and its partners’ expertise in GDPR-compliant cloud migrations and data architecture (Aiven established a Paris office, Aiven France SAS, in 2022)."
+        },
+        {
+          "question": "Common services",
+          "answer": "consulting, implementation, managed services, migration, data architecture, strategy"
+        },
+        {
+          "question": "French specialists",
+          "answer": "OVHcloud"
+        }
+      ]
+    },
+    {
+      "name": "Collibra",
+      "answers": [
+        {
+          "question": "Top GSIs/SIs in France",
+          "answer": "Accenture, Deloitte, EY, PwC, Capgemini, Infosys, EPAM, BearingPoint, Devoteam, Business & Decision"
+        },
+        {
+          "question": "France-specific notes",
+          "answer": "Collibra’s Silver-tier partners include Capgemini (a French-headquartered global SI) and PwC, among others, who bring deep industry knowledge in deploying Collibra at scale[10][11]. There is also a rich ecosystem of specialized integrators: for instance, Ishango by Lamarck Group is highlighted as a “strategic French partner” focused on accelerating Collibra adoption in France[12]."
+        },
+        {
+          "question": "Common services",
+          "answer": "consulting, implementation, strategy"
+        },
+        {
+          "question": "Program highlights",
+          "answer": "For example, Accenture and Deloitte are Collibra Gold partners, providing strategy and implementation services for Collibra’s data governance platform[7][8]."
+        },
+        {
+          "question": "French specialists",
+          "answer": "Devoteam, Business & Decision, Lamarck Group, Ishango"
+        }
+      ]
+    },
+    {
+      "name": "Confluent",
+      "answers": [
+        {
+          "question": "Partner types",
+          "answer": "consulting partners"
+        },
+        {
+          "question": "Top GSIs/SIs in France",
+          "answer": "Accenture, Deloitte, EY, KPMG, Capgemini, Atos, Tata Consultancy Services, Tata Consultancy Services (TCS), Worldline"
+        },
+        {
+          "question": "France-specific notes",
+          "answer": "In France, Confluent’s integrator ecosystem includes both the French branches of those global GSIs and local specialists. French enterprises commonly engage firms like Capgemini or Atos (which have Kafka experts) for Confluent implementations – though Confluent’s official references emphasize global partners rather than country-specific ones."
+        },
+        {
+          "question": "Common services",
+          "answer": "consulting, implementation, migration, data architecture, training, co-selling"
+        },
+        {
+          "question": "Program highlights",
+          "answer": "For example, Accenture has a dedicated Confluent practice and was recognized for co-selling services that accelerate customers’ “Data in Motion” use cases[20]."
+        }
+      ]
+    },
+    {
+      "name": "Converge Technology Solutions",
+      "answers": [
+        {
+          "question": "Top GSIs/SIs in France",
+          "answer": "EY, IBM"
+        },
+        {
+          "question": "France-specific notes",
+          "answer": "In terms of France, Converge TS’s footprint is currently limited. This indicates a growing European presence, but no major French acquisition or office has been announced to date."
+        },
+        {
+          "question": "Common services",
+          "answer": "implementation, managed services, integration"
+        }
+      ]
+    },
+    {
+      "name": "F5 Networks",
+      "answers": [
+        {
+          "question": "Top GSIs/SIs in France",
+          "answer": "EY, Sopra Steria, CGI, Tata Consultancy Services (TCS), Wipro, Orange Business"
+        },
+        {
+          "question": "France-specific notes",
+          "answer": "In France, F5’s ecosystem features both local specialists and the regional arms of global firms. For example, Nomios France (formerly Infradata) is a prominent F5 integration partner – Nomios is an award-winning F5 Gold Partner in Europe with certified experts in F5’s BIG-IP technologies[30]."
+        },
+        {
+          "question": "Common services",
+          "answer": "consulting, managed services, integration"
+        },
+        {
+          "question": "Program highlights",
+          "answer": "Global Systems Integrators (GSIs) play a role through F5’s Unity+ Partner Program, which includes a dedicated Global Systems Integrators Program[26]."
+        },
+        {
+          "question": "French specialists",
+          "answer": "Sopra Steria, Orange Business"
+        }
+      ]
+    },
+    {
+      "name": "Geotab",
+      "answers": [
+        {
+          "question": "Top GSIs/SIs in France",
+          "answer": "Deloitte, EY"
+        },
+        {
+          "question": "France-specific notes",
+          "answer": "These partners often specialize in fleet solutions and IT integration – for example, in France, Arkeup GIS is a distributor-integrator of Geotab’s telematics, offering local support for French fleet customers[40]. Arkeup GIS (based in Paris) provides services such as installing Geotab’s GO devices, customizing Geotab’s software via APIs, and integrating Geotab data with clients’ internal systems[41][40]."
+        },
+        {
+          "question": "Common services",
+          "answer": "consulting, integration"
+        }
+      ]
+    },
+    {
+      "name": "Grafana Labs",
+      "answers": [
+        {
+          "question": "Top GSIs/SIs in France",
+          "answer": "EY"
+        },
+        {
+          "question": "France-specific notes",
+          "answer": "In France, Grafana Labs’ partner ecosystem would include local IT providers that specialize in monitoring and APM. While Grafana’s official releases didn’t list French firms by name, there are Paris-based partners listed in directories (e.g., monitoring specialists like BeeVirtua or Omegapoint have offered Grafana services in French market per community info)."
+        },
+        {
+          "question": "Common services",
+          "answer": "consulting, training, co-selling, integration"
+        },
+        {
+          "question": "Program highlights",
+          "answer": "By mid-2022, Grafana Labs had signed over 80 global channel partners, with a majority in EMEA and North America, as part of its partner program[43][44]."
+        }
+      ]
+    },
+    {
+      "name": "NVIDIA",
+      "answers": [
+        {
+          "question": "Top GSIs/SIs in France",
+          "answer": "Accenture, Deloitte, EY, KPMG, IBM, Capgemini, Atos, Eviden, Infosys, Wipro, HCLTech"
+        },
+        {
+          "question": "France-specific notes",
+          "answer": "In France, NVIDIA’s collaborations with SIs align with Europe’s push for AI. For instance, Capgemini (France’s largest IT firm) is a key NVIDIA ally – Capgemini and NVIDIA announced joint efforts to build AI “factories” and sovereign cloud AI solutions in Europe[63][53]."
+        },
+        {
+          "question": "Common services",
+          "answer": "consulting, managed services, training, strategy"
+        },
+        {
+          "question": "Program highlights",
+          "answer": "This allows customers to tap specialized expertise and “turnkey” AI services powered by NVIDIA, whether via Accenture’s global AI practice or Capgemini’s local engineering teams[55][58]."
+        }
+      ]
+    },
+    {
+      "name": "Redis (Redis Labs)",
+      "answers": [
+        {
+          "question": "Partner types",
+          "answer": "technology partners, consulting partners"
+        },
+        {
+          "question": "Top GSIs/SIs in France",
+          "answer": "Sopra Steria, Infosys"
+        },
+        {
+          "question": "France-specific notes",
+          "answer": "In France, Redis is used by a number of enterprises (e.g., in e-commerce and financial services for low-latency data needs). Redis Labs’ partner page is available in French, and some local French IT firms have likely joined as Redis resellers/integrators."
+        },
+        {
+          "question": "Common services",
+          "answer": "consulting, training"
+        },
+        {
+          "question": "Program highlights",
+          "answer": "Redis, known for its real-time in-memory database platform, has built an enhanced global partner program that includes system integrators, VARs, and distributors to expand enterprise adoption of Redis Enterprise[67][68]."
+        },
+        {
+          "question": "French specialists",
+          "answer": "Sopra Steria"
+        }
+      ]
+    },
+    {
+      "name": "Splunk",
+      "answers": [
+        {
+          "question": "Top GSIs/SIs in France",
+          "answer": "Accenture, Deloitte, EY, KPMG, Capgemini, Atos, Orange Business"
+        },
+        {
+          "question": "France-specific notes",
+          "answer": "In France, Splunk’s integrator ecosystem is well-developed and includes both French IT services firms and local branches of global SIs. Notably, Orange Business Services (through its Orange Cyberdefense unit) is an Elite Splunk Partner in France[75][76]."
+        },
+        {
+          "question": "Common services",
+          "answer": "consulting, implementation, managed services, integration"
+        },
+        {
+          "question": "Program highlights",
+          "answer": "Accenture and Splunk have a longstanding alliance – Accenture even built a dedicated Splunk practice (Accenture’s Splunk-certified experts help clients with IT monitoring and security analytics using Splunk’s platform)."
+        },
+        {
+          "question": "French specialists",
+          "answer": "Orange Business"
+        }
+      ]
+    },
+    {
+      "name": "Teradata",
+      "answers": [
+        {
+          "question": "Top GSIs/SIs in France",
+          "answer": "Accenture, Deloitte, EY, IBM, Kyndryl, Capgemini, Atos, Sopra Steria, Wipro, Worldline"
+        },
+        {
+          "question": "France-specific notes",
+          "answer": "In France, Teradata’s solutions have historically been implemented by the French arms of these global SIs. For example, Capgemini France has been involved in Teradata projects for banking and retail clients (Capgemini helped a major French retailer build a Teradata-based customer data hub in a past case)."
+        },
+        {
+          "question": "Common services",
+          "answer": "consulting, implementation, migration, strategy, integration"
+        },
+        {
+          "question": "Program highlights",
+          "answer": "Also, Accenture France has a strong Analytics practice and can execute Teradata cloud migrations for French companies (the global Accenture–Teradata partnership includes Europe)."
+        },
+        {
+          "question": "French specialists",
+          "answer": "Sopra Steria"
+        }
+      ]
+    },
+    {
+      "name": "Zscaler",
+      "answers": [
+        {
+          "question": "Partner types",
+          "answer": "technology partners, resource (services) partners"
+        },
+        {
+          "question": "Top GSIs/SIs in France",
+          "answer": "Accenture, Deloitte, EY, KPMG, IBM, Kyndryl, NTT Data, Capgemini, Atos, Sopra Steria, Tata Consultancy Services (TCS), Infosys, Wipro, HCLTech, Devoteam, Orange Business, Inetum"
+        },
+        {
+          "question": "France-specific notes",
+          "answer": "In France, many of these same GSIs are delivering Zscaler projects. Capgemini France has worked on several cloud security transformations where Zscaler is the chosen platform (Capgemini is listed as a leading strategic partner leveraging Zscaler globally[104])."
+        },
+        {
+          "question": "Common services",
+          "answer": "consulting, managed services, training, strategy, integration"
+        },
+        {
+          "question": "Program highlights",
+          "answer": "Through such partnerships, a customer might engage, say, EY to design a zero-trust network architecture, which involves implementing Zscaler proxies and agents for all users – EY would handle the technical rollout and change management, leveraging its partnership with Zscaler for best practices and support[102][103]."
+        },
+        {
+          "question": "French specialists",
+          "answer": "Devoteam, Sopra Steria, Orange Business, Inetum"
+        }
+      ]
+    }
+  ]
+}
